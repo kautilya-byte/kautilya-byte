@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/3ad36ba1-dad8-4909-8380-0114f8a85dfb" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/kautilya-byte/images/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 # Welcome To My GitHub Profile !
@@ -19,14 +19,15 @@
 - 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
 
 
- <img align="right" height="150" src="https://github.com/user-attachments/assets/d2e66ca8-79f8-4e1b-8019-795b0bcdfd42" />
+ <img align="right" height="150" src="https://github.com/user-attachments/assets/0f6d5f98-e90f-4316-a86e-0e08ab68123a" />
+" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kau3i1ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kau3i1ya" height="30" width="40" /></a>
 </p>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/912de28d-8191-4bd0-8cda-384b4ec65e64" alt="Raghav Khullar" width="350" height="200" />
+<img src="https://github.com/kautilya-byte/images/blob/main/connected.gif" alt="Jay Prakash" width="350" height="200" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +36,7 @@
 <br/><br/>
 
 <div align="center">
-<img width="480" height="268" alt="image" src="https://github.com/user-attachments/assets/4bc51054-0509-419a-b9ca-79172d20b334" />
+<img width="480" height="268" alt="image" src="https://github.com/kautilya-byte/images/blob/main/coderman.gif" />
 
 </div>
 
