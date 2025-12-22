@@ -20,7 +20,7 @@
 
 
  <img align="right" height="150" src="https://github.com/kautilya-byte/images/blob/main/yoi.gif.gif" />
-" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
