@@ -19,7 +19,7 @@
 - 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
 
 
- <img align="right" height="150" src="https://github.com/user-attachments/assets/0f6d5f98-e90f-4316-a86e-0e08ab68123a" />
+ <img align="right" height="150" src="https://github.com/kautilya-byte/images/blob/main/yoi.gif.gif" />
 " />
 
 <h3 align="left">Connect with me:</h3>
