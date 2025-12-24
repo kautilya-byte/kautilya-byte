@@ -49,8 +49,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kautilya-byte&show_icons=true&locale=en&layout=compact" alt="kautilya-byte" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kautilya-byte&show_icons=true&locale=en" alt="kautilya-byte" /></p>
 
-<br clear="both">
 
 
